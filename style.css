@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(uchiha-logo.jpg);
+    height: 100%;
+    color: rgb(94, 180, 255);
+}
+
+#camera{
+    border-style: dashed;
+    border-color: aliceblue;
+    width: 500px;
+    height: 500px;
+}
